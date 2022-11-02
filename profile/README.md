@@ -18,5 +18,5 @@ HathiTrust Ingestion Script: https://github.com/TempleDSS/SciFiCorpusOCR
 
 [Data Capsule Appliance](https://github.com/TempleDSS/data-capsule-appliance)
 
-[HTRC SF Experiments][https://github.com/gwijthoff/HTRC_SF_experiments]
+[HTRC SF Experiments](https://github.com/gwijthoff/HTRC_SF_experiments)
 
