@@ -8,15 +8,19 @@ For more information on the project, see our [Omeka site](https://lcdssgeo.com/o
 
 # To be migrated
 
-Extracted Features R Script: https://github.com/TempleDSS/Extracted-Features
+[Extracted Features R Script](https://github.com/TempleDSS/Extracted-Features)
+
+[HathiTrust Ingestion Script](https://github.com/TempleDSS/SciFiCorpusOCR)
 
 ## Relevant Project Repositories
 
 These repositories will eventually migrate to this organization and be archived. 
 
-HathiTrust Ingestion Script: https://github.com/TempleDSS/SciFiCorpusOCR
-
 [Data Capsule Appliance](https://github.com/TempleDSS/data-capsule-appliance)
 
 [HTRC SF Experiments](https://github.com/gwijthoff/HTRC_SF_experiments)
+
+[Gutenberg scripts](https://github.com/tyxiang0530/GutenShelves)
+
+[Sentiments of SF](https://github.com/tyxiang0530/Sentiments-of-Science-Fiction)
 
