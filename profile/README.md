@@ -2,7 +2,7 @@ This project seeks to create a hub for the large scale curation and analysis of 
 
 ## To be migrated
 
-[Extracted Features R Script](https://github.com/TempleDSS/Extracted-Features)
+[Extracted Features R Script](https://github.com/TempleDSS/Extracted-Features)  
 [HathiTrust Ingestion Script](https://github.com/TempleDSS/SciFiCorpusOCR)
 
 ### Relevant Project Repositories
