@@ -1,18 +1,16 @@
-# The SF Nexus 
-
-# Project Info
+## Project Info
 
 This project seeks to create a hub for the large scale curation and analysis of science fiction
 
 For more information on the project, see our [Omeka site](https://lcdssgeo.com/omeka-s/s/scifi/page/digitizing-science-fiction)
 
-# To be migrated
+## To be migrated
 
 [Extracted Features R Script](https://github.com/TempleDSS/Extracted-Features)
 
 [HathiTrust Ingestion Script](https://github.com/TempleDSS/SciFiCorpusOCR)
 
-## Relevant Project Repositories
+### Relevant Project Repositories
 
 These repositories will eventually migrate to this organization and be archived. 
 
