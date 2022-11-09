@@ -12,3 +12,7 @@ These repositories will eventually migrate to this organization and be archived:
 - [HTRC SF Experiments](https://github.com/gwijthoff/HTRC_SF_experiments)
 - [Gutenberg scripts](https://github.com/tyxiang0530/GutenShelves)
 - [Sentiments of SF](https://github.com/tyxiang0530/Sentiments-of-Science-Fiction)
+
+
+### Relevant Websites
+- [Temple Libraries' datasets](https://library.temple.edu/webpages/datasets)
